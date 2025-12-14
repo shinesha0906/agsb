@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "shayun"         # 用户名
 UUID = "c582d3df-9412-43e1-8fad-09f7a7dbfdf2"                     # UUID，留空则自动生成
 PORT =43001                   # Vmess端口，留空或0则自动生成
-DOMAIN = "stm02.yunguwen.online"                   # 域名，留空则自动获取
+DOMAIN = "stm02.aizeta.de5.net"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNTg4ZTU3NDY2M2RkZDhhYzBhNWJmNGEzMDMxYjY4MmUiLCJ0IjoiNjk2ZmUzOWItZDE5MS00YWEyLWI2MzUtMGFlMThmOThhY2RkIiwicyI6Ik5tTXdNV015WWpRdFlqRTBaUzAwWkRNM0xXSmlZemN0TTJNellUQmlOV015TXpBdyJ9"   # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
